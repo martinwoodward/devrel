@@ -8,6 +8,8 @@ Application links:
  - [Europe & UK](https://boards.greenhouse.io/github/jobs/3124434)
  - [US & Canada](https://boards.greenhouse.io/github/jobs/3124531)
 
+If this isn't quite the right role for you, don't worry. We have a bunch of other roles open all around the world so [please take a look](https://github.com/careers) if any of those sound interesting and we might still be able to work together.
+
 # What does Developer Relations at GitHub do?
 Whether the person is brand new to coding, a maker, a hobbyist, someone working on a personal project, someone contributing to open source, a team launching their first startup or someone working as part of 
 a group in a large enterprise - they are a developer and we want to be there to support them and help them make awesome things.  You can check out some of our recent work on [keynotes](https://youtu.be/2m9nUP-e8Co), with the [GitHub Stars](https://stars.github.com/), [short-form video](https://www.youtube.com/playlist?list=PL0lo9MOBetEFCNnxB1uZcDGcrPO1Jbpz8), [meetups](https://www.meetup.com/pro/github-virtual-meetup/), [live-streams](https://www.twitch.tv/github), [hackathons](https://www.youtube.com/playlist?list=PL0lo9MOBetEEg5pjcASReSpfbENuhvORw), social media, animated-gif goodness and more.
