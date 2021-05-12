@@ -1,5 +1,7 @@
 👋 Hello
 
+<img alt="bdougie" height="200" src="https://user-images.githubusercontent.com/856858/117973458-561f0480-b324-11eb-97d1-d0f537655c05.jpg">
+
 We are looking for a new Developer Advocate to join our well established and expanding global Developer Relations team
 to come and grow with us. This is an ideal role for someone who understands development but is new to DevRel and 
 Developer Advocacy.
@@ -10,7 +12,9 @@ Application links:
 
 If this isn't quite the right role for you, don't worry. We have a bunch of other roles open all around the world so [please take a look](https://github.com/careers) if any of those sound interesting and we might still be able to work together.
 
-# What does Developer Relations at GitHub do?
+## What does Developer Relations at GitHub do?
+<img alt="mishmanners" width="250" src="https://user-images.githubusercontent.com/856858/117971541-f45d9b00-b321-11eb-86b0-f1ccd1034552.jpg" align="right">
+
 Whether the person is brand new to coding, a maker, a hobbyist, someone working on a personal project, someone contributing to open source, a team launching their first startup or someone working as part of 
 a group in a large enterprise - they are a developer and we want to be there to support them and help them make awesome things.  You can check out some of our recent work on [keynotes](https://youtu.be/2m9nUP-e8Co), with the [GitHub Stars](https://stars.github.com/), [short-form video](https://www.youtube.com/playlist?list=PL0lo9MOBetEFCNnxB1uZcDGcrPO1Jbpz8), [meetups](https://www.meetup.com/pro/github-virtual-meetup/), [live-streams](https://www.twitch.tv/github), [hackathons](https://www.youtube.com/playlist?list=PL0lo9MOBetEEg5pjcASReSpfbENuhvORw), [social media](https://twitter.com/github/status/1367885997527171073), [TikToks](https://twitter.com/bdougieYO/status/1391776240822939649), [animated-gif goodness](https://twitter.com/github/status/1390382527588798477) and [more](https://twitter.com/github/status/1384130507898720262).
 * We're on the ground, serving developers in regions around the world from our position in the core of the product team at GitHub
@@ -31,7 +35,7 @@ Now we're seeking a new team member who wants to get started in a career as a De
 * __Create Events:__ Organize and participate in online or virtual events, hackathons and manage Q&As.
 * __Nurture:__ Communities in open source and communities of engineers across the world that are using GitHub for their collaboration.
 
-### Qualifications: 
+## Qualifications: 
 - Very strong communication and presentation skills - especially working in a remote team 
 - Solid knowledge of coding & testing principles & technical architectures with real-world experience as a developer, SRE or engineer.
 - Experience with Git and GitHub.
@@ -55,3 +59,6 @@ We are also committed to keeping Hubbers healthy, motivated, focused and creativ
 GitHub is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and invite applications from people of all walks of life. We don't discriminate against employees or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, disability, pregnancy status, veteran status, or any other differences. Also, if you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!
 
 _Please note that benefits vary by country. If you have any questions, please don't hesitate to ask your Talent Partner._
+
+![martinwoodward](https://user-images.githubusercontent.com/856858/117973104-df820700-b323-11eb-8f2a-69a2a7642319.jpg)
+
