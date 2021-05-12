@@ -10,7 +10,7 @@ Application links:
  - [Europe & UK](https://boards.greenhouse.io/github/jobs/3124434)
  - [US & Canada](https://boards.greenhouse.io/github/jobs/3124531)
 
-If this isn't quite the right role for you, don't worry. We have a bunch of other roles open all around the world so [please take a look](https://github.com/careers) if any of those sound interesting and we might still be able to work together.
+If this isn't quite the right role for you, don't worry. We have a bunch of other roles open all around the world so [please take a look](https://github.com/careers) if any of those sound interesting and we might still be able to work together. The Security Lab team have [a great role](https://boards.greenhouse.io/github/jobs/3109350) if InfoSec is your jam but there are many others across product, engineering, design and [all across the company](https://boards.greenhouse.io/github/). GitHub has over 65 million developers that we help so there is always work to be done!
 
 ## What does Developer Relations at GitHub do?
 <img alt="mishmanners" width="250" src="https://user-images.githubusercontent.com/856858/117971541-f45d9b00-b321-11eb-86b0-f1ccd1034552.jpg" align="right">
