@@ -2,15 +2,9 @@
 
 <img alt="bdougie" height="200" src="https://user-images.githubusercontent.com/856858/117973458-561f0480-b324-11eb-97d1-d0f537655c05.jpg">
 
-We are looking for a new Developer Advocate to join our well established and expanding global Developer Relations team
-to come and grow with us. This is an ideal role for someone who understands development but is new to DevRel and 
-Developer Advocacy.
+Applications are currently closed to join our well established and expanding global Developer Relations team here at GitHub. But don't worry. We have a bunch of other roles open all around the world so [please take a look](https://github.com/careers) if any of those sound interesting and we might still be able to work together. The Security Lab team have [a great role](https://boards.greenhouse.io/github/jobs/3109350) if InfoSec is your jam but there are many others across product, engineering, design and [all across the company](https://boards.greenhouse.io/github/). GitHub has over 65 million developers that we help so there is always work to be done!
 
-Application links:
- - [Europe & UK](https://boards.greenhouse.io/github/jobs/3124434)
- - [US & Canada](https://boards.greenhouse.io/github/jobs/3124531)
-
-If this isn't quite the right role for you, don't worry. We have a bunch of other roles open all around the world so [please take a look](https://github.com/careers) if any of those sound interesting and we might still be able to work together. The Security Lab team have [a great role](https://boards.greenhouse.io/github/jobs/3109350) if InfoSec is your jam but there are many others across product, engineering, design and [all across the company](https://boards.greenhouse.io/github/). GitHub has over 65 million developers that we help so there is always work to be done!
+As working with developers across all ranges of experience is vital to our role here at GitHub, we will be looking to hire again in the future. Feel free to watch this repo for updates as well as keep an eye on our [Careers page](https://github.com/careers). 
 
 ## What does Developer Relations at GitHub do?
 <img alt="mishmanners" width="250" src="https://user-images.githubusercontent.com/856858/117971541-f45d9b00-b321-11eb-86b0-f1ccd1034552.jpg" align="right">
@@ -22,11 +16,9 @@ a group in a large enterprise - they are a developer and we want to be there to 
 * Help IT people see how new features can make them faster, collaborate better, be more efficient, and more creative
 * Connect products teams with the people they need to learn from to make GitHub work better for them - help the org learn
 * Keep open source communities up to speed with the latest changes they can take advantage of and help maintainers be even more awesome than they already are.
-* Success? That's based on happiness of developers, success of open source and enabling the creativity of our superfans and the community around GitHub.
+* Success? That's based on happiness of developers, success of open source and enabling the creativity of our superfans and the community around GitHub. 
 
-Now we're seeking a new team member who wants to get started in a career as a Developer Advocate to join our well established and growing global Developer Relations team. 
-
-## What would *you* do?
+## What would *you* do as a Developer Advocate?
 * __Learn:__ Everything about GitHub and what problems developers are trying to solve so you know how best to communicate with them and advocate for their needs with-in the wider product team. You are not alone in this, you will be joining an established team who are there to coach you, share ideas and work together
 * __Teach:__ Develop and deliver interesting and informational content for the global audience of developers. That includes blog posts, interviews, tutorials, short and long form videos, competitions, hackathons, conference presentations and more. 
 * __Communicate:__ Serve as a contact point for developers and drive campaigns to promote our programs.
